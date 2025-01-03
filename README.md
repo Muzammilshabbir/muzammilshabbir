@@ -8,7 +8,6 @@ My skills include:
 - ✅Servers: AWS, Azure;
 
   I have extensive experience in supporting and developing applications from scratch or already developed ones on the Node.js and React.js framework for existing businesses and start-ups.
-- 📫 How to reach me: muzammilshabbir9@gmail.com
 - 🔭 I’m currently working Nest.js with Microservices, RabbitMQ
 - 🌱 I’m currently learning Web Scrapping using, Data Science Python
 - 📫 How to reach me: muzammilshabbir9@gmail.com
