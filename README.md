@@ -1,4 +1,4 @@
-Hi, I am a Full Stack Web Engineer having over 6+ years of market experience in MERN stack/PHP Laravel and Python.
+Hi, I am a Full Stack Web Engineer with over six years of industry expertise in the MERN stack, PHP Laravel, and Python. I am proficient in leveraging AI-powered development tools like Cursor and have experience managing MCP servers for scalable solutions.
 My skills include:
 
 - ✅Backend: Node.js/Express.js/Nest.js, Python, PHP/Laravel;
